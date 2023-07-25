@@ -1,0 +1,40 @@
+.sign{
+    margin-top: 250px;
+    color: blue;
+}
+.hie{
+    height: 500px;
+
+}
+.pen{
+    height: 90px;
+    margin-top: 70px;
+    
+}
+.pena{
+    height: 170px;
+    margin-top: 33px;
+}
+.sketch{
+    height: 650px;
+    width: auto;
+}
+.alum{
+    background-image: url('constraction\(3\).jpg');
+    background-size: cover;
+    background-attachment: scroll;
+    height: 450px;
+}
+.ser{
+    margin-top: 29%;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.text{
+    color: grey;
+    font-size: small;
+}
+.tex{
+    font-size: large;
+    margin-left: 8px;
+}   
